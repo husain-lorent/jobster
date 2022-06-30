@@ -1,0 +1,9 @@
+.logo {
+    @apply bg-blue-600 text-white text-5xl p-2 rounded-lg ml-4;
+  }
+  .logo-jobs{
+      @apply text-black font-bold text-2xl tracking-widest ml-3
+  }
+  nav {
+    @apply flex items-center mt-4;
+  }

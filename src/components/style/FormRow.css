@@ -1,0 +1,9 @@
+.form-input {
+  @apply border outline-none p-1 text-black mb-1  px-2 rounded bg-slate-100;
+}
+.form-row {
+  @apply flex flex-col;
+}
+.form-label {
+  @apply text-lg text-gray-800 font-medium pb-1 capitalize;
+}

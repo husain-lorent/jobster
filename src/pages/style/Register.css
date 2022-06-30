@@ -1,0 +1,10 @@
+.fluid-page{
+    @apply min-h-screen grid grid-flow-col justify-center pt-[15vh] md:pt-[10vh] bg-slate-100;
+}
+.form-container{
+    @apply shadow-xl bg-white border-t-8 border-blue-500 rounded p-5 h-max ;
+}
+.form-container >h3{
+    @apply text-black text-3xl font-semibold mt-3 mb-6 text-center;
+}
+

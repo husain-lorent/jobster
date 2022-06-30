@@ -1,0 +1,13 @@
+.error-img{
+    @apply md:w-[500px] w-full md:h-[500px] object-cover md:mx-auto
+}
+.Error-wrapper{
+    @apply grid mx-auto place-content-center my-auto justify-center h-[85vh]
+}
+
+.link-error{
+    @apply text-center flex justify-center mt-4 
+}
+.link-error >h2{
+    @apply font-semibold text-xl text-blue-700 border-b border-blue-500 tracking-wider
+}
